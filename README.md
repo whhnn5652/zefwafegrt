@@ -1,5 +1,5 @@
 有很多反馈说heroku被秒封！建议先用其他的heroku项目或先避开当前的敏感期
-https://dashboard.heroku.com/new?template=https://github.com/whhnn5652/zefwafegrt.git
+https://dashboard.heroku.com/new?template=
 ### 请勿fork，请勿fork，请勿fork，点个Star就好了
 
 直接点击绿色的`Use this template`创建自己名称的项目，workers反代与pages反代及自定义域，配置文件信息等相关操作拓展教程，请关注：[博客视频教程](https://ygkkk.blogspot.com/2022/05/heroku-cloudflare-workers-pages.html)
